@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/m124578n/Release_course/compare/v1.0.0...v1.1.0) (2023-11-18)
+
+
+### Features
+
+* add xxx ([2cdcebe](https://github.com/m124578n/Release_course/commit/2cdcebe97eb3249bd9a277da7f7b8e4a36238664))
+
 # 1.0.0 (2023-11-18)
 
 
